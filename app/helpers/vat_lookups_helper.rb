@@ -1,0 +1,2 @@
+module VatLookupsHelper
+end
